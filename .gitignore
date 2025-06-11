@@ -1,0 +1,17 @@
+# Entorno virtual
+
+*.py[cod]
+*.pyo
+venv/
+__pycache__/
+
+# Variables de entorno
+
+.env
+
+# Archivos temporales o de pruebas
+
+*.log
+*.tmp
+*.bak
+archivos/
